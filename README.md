@@ -1,7 +1,7 @@
 # MoneyManagerEx for Android
 
 See our homepage at [android.moneymanagerex.org](http://android.moneymanagerex.org/) for more user-oriented information.
-test
+another test
 ## Badges
 [![GitHub License](https://img.shields.io/github/license/moneymanagerex/android-money-manager-ex)](https://github.com/wolfsolver/android-money-manager-ex/tree/master?tab=License-1-ov-file)
 [![GitHub Release](https://img.shields.io/github/v/release/moneymanagerex/android-money-manager-ex?include_prereleases&label=github%20release)](https://github.com/moneymanagerex/android-money-manager-ex/releases/latest)
